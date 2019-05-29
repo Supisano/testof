@@ -1,1 +1,1 @@
-Testes javaScript - de supisano
+Repositorio de testes javaScript - de Supisano
